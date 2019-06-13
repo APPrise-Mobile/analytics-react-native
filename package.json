@@ -1,5 +1,5 @@
 {
-  "name": "@internal/analytics-react-native",
+  "name": "@segment/analytics-react-native",
   "version": "0.0.1",
   "main": "index.js",
   "license": "MIT",
